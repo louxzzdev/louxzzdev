@@ -23,11 +23,6 @@ PHP · MySQL · JavaScript · HTML · CSS · Git
 
 [louxzz.net](https://louxzz.net) · [lourenco@louxzz.net](mailto:lourenco@louxzz.net) · [instagram](https://instagram.com/notlourenco)
 
-## Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=louxzzdev&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=8b8b8b&icon_color=8b8b8b" height="150" alt="github stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louxzzdev&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=8b8b8b&icon_color=8b8b8b" height="150" alt="top languages">
-
 ---
 
 *pensamentos inúteis, ideias úteis.*
