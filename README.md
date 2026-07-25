@@ -1,19 +1,19 @@
 # lou
 
-full-stack developer — construo produtos do zero ao deploy.
+full-stack developer — building products from idea to deployment.
 
 ## About
 
-- autodidata: aprendi a programar a construir coisas reais
-- foco em projetos próprios — três produtos live, de ponta a ponta
-- gosto de software pequeno, rápido e bem desenhado
-- aberto a colaborações interessantes
+- self-taught: learned to code by building real projects
+- focused on personal projects — three live products, built end-to-end
+- passionate about small, fast, and thoughtfully designed software
+- open to interesting collaborations
 
 ## Projects
 
-- **[mosaic](https://usemosaic.online)** — plataforma web
-- **[thegamercave](https://thegamercave.blog)** — hub e comunidade para gamers
-- **[cagating](https://cagating.pt)** — casas de banho públicas, avaliadas por quem já lá esteve
+- **[mosaic](https://usemosaic.online)** — web platform
+- **[thegamercave](https://thegamercave.blog)** — gaming hub and community
+- **[cagating](https://cagating.pt)** — public restrooms, reviewed by the people who use them
 
 ## Tech
 
@@ -25,4 +25,4 @@ PHP · MySQL · JavaScript · HTML · CSS · Git
 
 ---
 
-*pensamentos inúteis, ideias úteis.*
+*useless thoughts, useful ideas.*
