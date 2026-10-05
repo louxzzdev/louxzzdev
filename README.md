@@ -12,7 +12,6 @@ full-stack developer — building products from idea to deployment.
 ## Projects
 
 - **[mosaic](https://usemosaic.online)** — web platform
-- **[thegamercave](https://thegamercave.blog)** — gaming hub and community
 - **[cagating](https://cagating.pt)** — public restrooms, reviewed by the people who use them
 - **[lourenco](https://lourenco.fun)** — project for cinema school
 
