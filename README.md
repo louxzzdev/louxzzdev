@@ -1,29 +1,31 @@
-# lou
+# hey, i'm lou.
 
-full-stack developer — building products from idea to deployment.
+I'm a self-taught full-stack developer from Portugal. I build and ship my own web and mobile projects. My favourite part is taking an idea from the first screen to something people can actually use.
 
-## About
+## What I'm building
 
-- self-taught: learned to code by building real projects
-- focused on personal projects — three live products, built end-to-end
-- passionate about small, fast, and thoughtfully designed software
-- open to interesting collaborations
+### [Mosaic](https://usemosaic.online)
 
-## Projects
+A personal library for films and series. Keep a watchlist, log what you've watched, write reviews, and group your favourites into lists.
 
-- **[mosaic](https://usemosaic.online)** — web platform
-- **[cagating](https://cagating.pt)** — public restrooms, reviewed by the people who use them
-- **[lourenco](https://lourenco.fun)** — project for cinema school
+[Open Mosaic](https://usemosaic.online) · [Download on iOS](https://apps.apple.com/app/id6802088566)
 
+### [Cagating](https://cagating.pt)
 
-## Tech
+A community guide to public restrooms, with reviews from the people who've actually used them.
 
-PHP · MySQL · JavaScript · HTML · CSS · Git
+[Explore Cagating](https://cagating.pt)
 
-## Contact
+## Tools I build with
 
-[louxzz.net](https://louxzz.net) · [lourenco@louxzz.net](mailto:lourenco@louxzz.net) · [instagram](https://instagram.com/notlourenco)
+**Web** · PHP, MySQL, JavaScript, HTML, CSS  
+**Mobile** · Flutter, Dart  
+**Version control** · Git
 
----
+## Get in touch
+
+I'm open to collaborating on small, thoughtfully designed products.
+
+[Website](https://louxzz.net) · [Email](mailto:lourenco@louxzz.net) · [Instagram](https://instagram.com/notlourenco)
 
 *useless thoughts, useful ideas.*
